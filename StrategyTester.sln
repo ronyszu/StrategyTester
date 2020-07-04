@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyTester", "StrategyTester\StrategyTester.csproj", "{F49CC693-70FA-492B-B78D-376E406696B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MqlSql", "MqlSql\MqlSql.csproj", "{D83DD419-A703-41E0-A0AD-C02D5A442F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49CC693-70FA-492B-B78D-376E406696B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49CC693-70FA-492B-B78D-376E406696B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49CC693-70FA-492B-B78D-376E406696B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49CC693-70FA-492B-B78D-376E406696B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83DD419-A703-41E0-A0AD-C02D5A442F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83DD419-A703-41E0-A0AD-C02D5A442F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83DD419-A703-41E0-A0AD-C02D5A442F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83DD419-A703-41E0-A0AD-C02D5A442F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5115AD4-2484-4B9F-BF26-2FB113A6F8E7}
+	EndGlobalSection
+EndGlobal
